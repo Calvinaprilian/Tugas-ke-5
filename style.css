@@ -1,0 +1,73 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand {
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: crimson;
+}
+
+.myphoto { 
+    object-fit: cover;
+    width: 80%;
+    border-bottom-left-radius: 100px;
+    margin-left: 7rem;
+    
+}
+
+.myphoto2 {
+    object-fit: cover;
+    width: 40%;
+}
+
+.garis {
+    width: 6rem;
+    height: 5px;
+    /* background-color: rgb(49, 87, 255); */
+    margin-top: 2rem;
+}
+
+.content {
+    padding-left: 3rem;
+}
+.text {
+    letter-spacing: 2px;
+    padding-right: 15px;
+    text-align: left;
+}
+
+.kotak1 {
+    width: 50px;
+    height: 50px;
+    margin-top: 5rem;
+    border-radius: 50px;
+    border: 1px solid rgb(71, 101, 253);
+    
+}
+.kotak2 {
+    width: 50px;
+    height: 50px;
+    margin-top: 5rem;
+    border-radius: 50px;
+    
+    
+}
+
+.line {
+    height: 1px;
+    width: 50px;
+    border: 1px solid black;
+    margin-top: 105px;
+}
+
+.jarak {
+    margin-bottom: 10rem;
+}
+
+.jarak2 {
+    margin-bottom: 20rem;
+    min-height: 40rem;
+}
